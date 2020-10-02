@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Puedo ver las lineas editadas y corregir
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    El historial permite guardar versiones anteriores del archivo
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Git permite tener un control del sistema
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Porque Git es mejor
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Permiten ver diferencias entre archivos
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Por que me permite volver al pasado
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
